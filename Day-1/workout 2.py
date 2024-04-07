@@ -1,0 +1,7 @@
+name =input()
+age =input()
+city =input()
+print("My Name is:",name)
+print("My Age is:",age)
+print("My City is:",city)
+print("My Address is: Nagal Nagar")
